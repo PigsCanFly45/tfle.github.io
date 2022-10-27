@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Junior Engineers with Tony
+title: Junior Engineers with Benny
 nav_order: 1
 description: "This is the website you go to if you want to know who Tony Le is." 
 permalink: /lcw
@@ -33,15 +33,15 @@ Someone always asks what the game pin is, even though it's up on the screen.
 ---
 
 ## Sign in to Minecraft Education
-Click your name to automagically copy your username.
+Press the button to turn into Tony.
 
 <div id="roll">
   <button class="btn mr-4 mb-4" id="instructor10">Tony<span style="display:none"></span></button>
-  <button class="btn mr-4 mb-4" id="junior142">Amir<span style="display:none"></span></button>
-  <button class="btn mr-4 mb-4" id="junior143">Benny<span style="display:none"></span></button>
-  <button class="btn mr-4 mb-4" id="junior144">Andrew<span style="display:none"></span></button>
-  <button class="btn mr-4 mb-4" id="junior145">William<span style="display:none"></span></button>
-  <button class="btn mr-4 mb-4" id="junior146">Adam<span style="display:none"></span></button>
+  <button class="btn mr-4 mb-4" id="junior142">Amir The Great<span style="display:none"></span></button>
+  <button class="btn mr-4 mb-4" id="junior143">King Benny<span style="display:none"></span></button>
+  <button class="btn mr-4 mb-4" id="junior144">Cave Finder Andrew<span style="display:none"></span></button>
+  <button class="btn mr-4 mb-4" id="junior145">Gamer William<span style="display:none"></span></button>
+  <button class="btn mr-4 mb-4" id="junior146">Adam the Player 1<span style="display:none"></span></button>
   <button class="btn mr-4 mb-4" id="junior147">Aarya<span style="display:none"></span></button>
   <button class="btn mr-4 mb-4" id="junior212">Violet<span style="display:none"></span></button>
   <button class="btn mr-4 mb-4" id="junior213">Thomas<span style="display:none"></span></button>
@@ -54,17 +54,17 @@ Click your name to automagically copy your username.
 {: .selected-user}
 <p id="selected-user">None</p>
 
-If your name appears above, your username has been copied. Just right-click and paste into **Minecraft Education**.
+If your name appears above, your username has been pasted. Just right-click and copy into **Minecraft Education**.
 
 {: .did-you-know}
-The shortcut for paste is **Control + V**
+The shortcut for paste is **Control + C**
 
 What's the password? Check the whiteboard ~~or ask an instructor~~!
 
 ---
 
 ## Today's Activity
-In the spirit of Halloween, we're going to be making a survival game featuring player levels!
+In the spirit of Christmas, we're going to be making a survival game featuring player levels!
 
 ![](assets/27-10-22.png)
 
